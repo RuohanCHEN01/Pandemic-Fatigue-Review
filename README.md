@@ -1,4 +1,5 @@
-# Pandemic-Fatigue-Scale
+# Pandemic-Fatigue-Review
+## 
 This is a Rcode for calculating PFS.
 
 ## Method
